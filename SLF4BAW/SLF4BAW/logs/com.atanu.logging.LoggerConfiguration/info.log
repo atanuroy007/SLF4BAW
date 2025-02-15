@@ -1,0 +1,1 @@
+[1/29/25 13:15:48:023 IST] 23196@SPINDLP0003 main INFO  c.atanu.logging.LoggerConfiguration - Base logger configured with logPath=logs, maxFileSize=10MB, totalSizeCap=4GB
